@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abdulsamirao
-- 📖 I am a Software Engineering student
+- 📖 I am a Software Engineering student @ NED University
 - 🚀 Passionate about building real-world solutions and impactful projects.
 - 👀 Interested in AI/ML, Cloud Development and Cybersecurity.
 - 🌱 Currently learning Python through Harvard's CS50p.
